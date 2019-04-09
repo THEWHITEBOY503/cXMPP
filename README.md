@@ -42,6 +42,10 @@ Creating an account is free and easy.
 ### Selecting and installing a client
 I recommend [Pidgin](https://pidgin.im) for any desktop platform (It supports Windows, macOS and Linux Desktop). Any XMPP client will work with cXMPP.
 
+If you're on iOS, i reccomend [AstraChat](https://itunes.apple.com/us/app/astrachat-direct-xmpp-voip/id923002139?mt=8), but don't say i ever said it's the best client. 
+
+If you're on Android, i reccoment [tigase](https://tigase.net/content/tigase-messenger-android). It supports account creation as well, so that's good if you don't have a PC and would like to create a cXMPP account without using E-mail.
+
 ### Creating an account using a client
 To create an account, all you need to do is add an account to your clients config, and tell it to make an account with this information. (on pidgin, there is a tick box at the bottom of the account setup window, check that to make an account).
 
