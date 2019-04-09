@@ -47,5 +47,7 @@ To create an account, all you need to do is add an account to your clients confi
 
 ### Creating an account using E-mail
 If you'd rather create an account by sending me an E-Mail, send me an email at cftpservices@gmail.com and provide the following information:
+
 -The username for your account
+
 -The password you'd like to use for the account [(If you would like to encrypt this password with PGP, my public key can be found here.)](https://thewhiteboy503.github.io/cXMPP/pgppub.txt)
